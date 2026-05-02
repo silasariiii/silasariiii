@@ -1,6 +1,6 @@
 # Hi, I'm Sıla 👋
 
-🎓 Computer Engineering @ TED University (GPA: 3.48 / 4.00 — Full Scholarship)  
+🎓 B.Sc. Computer Engineering — TED University (GPA: 3.48 / 4.00 — Full Scholarship)
 💼 Candidate Engineer @ HAVELSAN  
 📍 Ankara, Türkiye  
 
@@ -45,6 +45,14 @@
 - 🤝 Volunteer — Young Guru Academy (YGA)
 - 📝 Published 2 researches on depth perception & gaming
 
+---
+## 🏅 Certifications
+
+- [![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Advanced-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/certificates/88835e4f6257)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-JavaScript_Intermediate-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/certificates/b0712d476c14)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-Software_Engineer-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/certificates/77baf82027b3)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-Java_Basic-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/certificates/03c41fad36d8)
+  
 ---
 
 ## 📬 Contact
